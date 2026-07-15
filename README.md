@@ -1,7 +1,7 @@
  
 
 <h3 align="center">
-  # Welcome to Adham Hesham's profile!
+  Welcome to Adham Hesham's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -11,9 +11,9 @@
 </p> 
 
 <p font-size= "45rem">
- I'm a Front End Developer
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of tea.
+I am a passionate Website Developer with over two years of hands-on experience in front-end development and programming.
+ <br>
+ Throughout my part-time roles, I’ve had the opportunity to work on a variety of projects where I built, maintained, and improved websites while meeting deadlines and exceeding expectations.
 </p>
 
 ### Connect with Me :
